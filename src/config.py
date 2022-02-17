@@ -1,0 +1,9 @@
+BASE_API_URL = "https://xkcd.com/"
+FETCH_RECORD_THRESHHOLD = 15
+
+MYSQL_HOST = "localhost"
+MYSQL_DATABASE = "comic"
+MYSQL_USER_NAME = "user"
+MYSQL_PASSWORD = "password"
+
+IS_DATABASE_CONNECTED = False
