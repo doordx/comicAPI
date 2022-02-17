@@ -15,4 +15,4 @@ To Setup the app and display the results follow below steps.
 7. To get comics you need to set parameter "<FETCH_RECORD_THRESHHOLD>" in config File. The default size is 15.
 
 
-##For More info Please contact repository Owner manishkhatri.in@gmail.com
+#For More info Please contact repository Owner manishkhatri.in@gmail.com
