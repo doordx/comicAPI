@@ -2,7 +2,7 @@
 
 To Setup the app and display the results follow below steps.
 1. Clone the repository.
-2. Create the virtual environment using Anaconda.
+2. Set up your python workspace.
 3. Intall the requirements from requirements.txt.
 4. To run the app and display result go to folder and type "python src/app.py".
 5. You will see the following result.
